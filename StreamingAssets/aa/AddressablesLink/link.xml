@@ -19,6 +19,11 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
   </assembly>
+  <assembly fullname="PixyzPluginEditor.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Pixyz.ImportSDK.ImportStamp" preserve="all" />
+    <type fullname="Pixyz.ImportSDK.Metadata" preserve="all" />
+    <type fullname="Pixyz.ImportSDK.ImportSettings" preserve="all" />
+  </assembly>
   <assembly fullname="Unity.Industrial.Configurator, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Industrial.Configuring.Providers.ProductRuntimeUIData" preserve="all" />
     <type fullname="UnityEngine.Industrial.Configuring.Core.ModelSet" preserve="all" />
@@ -32,11 +37,6 @@
     <type fullname="UnityEngine.Industrial.Configuring.Core.ProductDefinition" preserve="all" />
     <type fullname="UnityEngine.Industrial.Configuring.Core.QueryResults" preserve="all" />
     <type fullname="UnityEngine.Industrial.Configuring.Core.Ruling.Rules" preserve="all" />
-  </assembly>
-  <assembly fullname="PixyzPluginEditor.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="Pixyz.ImportSDK.ImportStamp" preserve="all" />
-    <type fullname="Pixyz.ImportSDK.Metadata" preserve="all" />
-    <type fullname="Pixyz.ImportSDK.ImportSettings" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
