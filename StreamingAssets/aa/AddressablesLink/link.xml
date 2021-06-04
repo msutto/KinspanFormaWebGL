@@ -19,6 +19,9 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
   </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+  </assembly>
   <assembly fullname="PixyzPluginEditor.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Pixyz.ImportSDK.ImportStamp" preserve="all" />
     <type fullname="Pixyz.ImportSDK.Metadata" preserve="all" />
