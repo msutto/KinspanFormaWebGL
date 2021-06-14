@@ -41,6 +41,12 @@
     <type fullname="UnityEngine.Industrial.Configuring.Core.QueryResults" preserve="all" />
     <type fullname="UnityEngine.Industrial.Configuring.Core.Ruling.Rules" preserve="all" />
   </assembly>
+  <assembly fullname="Unity.Metadata, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Industrial.Metadata.MetadataViewSourceItem" preserve="all" />
+    <type fullname="UnityEngine.Industrial.Metadata.FeedItemPicker" preserve="all" />
+    <type fullname="UnityEngine.Industrial.Metadata.FeedItemHighLight" preserve="all" />
+    <type fullname="UnityEngine.Industrial.Metadata.MetadataFeedPiXYZ" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
   </assembly>
